@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: a3526502fa55c2a4c807d1957022a00d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 8bitslot_0
+    21300002: 8bitslot_1
+    21300004: 8bitslot_2
+    21300006: 8bitslot_3
+    21300008: 8bitslot_4
+    21300010: 8bitslot_5
+    21300012: 8bitslot_6
+    21300014: 8bitslot_7
+    21300016: 8bitslot_8
+    21300018: 8bitslot_9
+    21300020: 8bitslot_10
+    21300022: 8bitslot_11
+    21300024: 8bitslot_12
+    21300026: 8bitslot_13
+    21300028: 8bitslot_14
+    21300030: 8bitslot_15
+    21300032: 8bitslot_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: 8bitslot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 385
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 385
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 385
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 290
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 290
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 290
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 195
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 195
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 195
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 100
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 100
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 100
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8bitslot_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
